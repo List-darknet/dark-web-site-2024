@@ -102,7 +102,6 @@
             </li>
         </ul>
     </section>
-
     <section id="dark-web">
         <h2>What is the Dark Web?</h2>
         <p>The dark web, also known as the darknet, includes websites not indexed by regular search engines and requires special software like Tor to access. It offers privacy, anonymity, and unique content not found on the surface web. The dark web is part of the deep web, which encompasses all unindexed parts of the web.</p>
@@ -149,6 +148,6 @@
     </section>
     <section id="vpn">
         <h2>Browse Safely with a VPN</h2>
-        <p>A VPN secures your data and protects your personal information online. Avast SecureLine VPN encrypts your internet traffic, blocking hackers and keeping your data private. Install Avast SecureLine VPN for safe and secure browsing.</p>
+        <p>A VPN secures your data and protects your personal information online. Avast SecureLine VPN encrypts your internet traffic, blocking hackers and keeping your data private. Install Avast SecureLine VPN for safe and secure browsing. Globaldarknet.com</p>
     </section>
 </body>

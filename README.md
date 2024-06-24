@@ -1,6 +1,7 @@
 <body>
     <header>
         <h1>Dark Web Links: The Best Onion and Tor Sites in 2024</h1>
+        <p><img src="https://github.com/List-darknet/dark-web-site-2024/blob/main/darknet-markets--showcase_i51.jpg?semt=ais_user" alt=" Darknet" title="Dynamics in the Darknet World" /></p>
   <li>
 <p dir="auto"><a href="http://alphaa3u7wqyqjqctrr44bs76ylhfibeqoco2wyya4fnrjwr77x2tbqd.onion" rel="nofollow">Alphabay Market</a> - <code>http://alphaa3u7wqyqjqctrr44bs76ylhfibeqoco2wyya4fnrjwr77x2tbqd.onion</code></p>
 </li>

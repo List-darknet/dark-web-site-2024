@@ -34,10 +34,6 @@
         </ul>
     </header>
     <section>
-        <h2>Academy-Websites-on-the-Dark-Web-2022-Hero</h2>
-        <p><em>Written by Domenic Molinaro, Published on October 28, 2022</em></p>
-    </section>
-    <section>
         <h2>What are Onion Sites?</h2>
         <p>Onion sites are dark web websites using the “.onion” top-level domain instead of “.com,” “.net,” or “.gov.” They use The Onion Router (Tor) software for encrypted, anonymous communication, hiding their location, ownership, and other identifiers.</p>
     </section>
